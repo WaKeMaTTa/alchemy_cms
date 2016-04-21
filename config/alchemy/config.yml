@@ -156,6 +156,7 @@ uploader:
     - jpeg
     - gif
     - png
+    - svg
 
 # === Link Target Options
 #
