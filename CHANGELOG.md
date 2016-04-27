@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.4.0 (unreleased)
+
+__Notable Changes__
+
+* Thumbnails now render in original file format, but GIFs will always be flattened
+
 ## 3.3.0 (unreleased)
 
 __New Features__
