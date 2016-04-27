@@ -4,6 +4,7 @@
 
 __Notable Changes__
 
+* Pictures will be rendered in original file format by default
 * Thumbnails now render in original file format, but GIFs will always be flattened
 
 ## 3.3.0 (unreleased)
