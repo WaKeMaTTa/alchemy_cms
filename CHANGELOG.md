@@ -4,6 +4,7 @@
 
 __Notable Changes__
 
+* Allow SVG files to be rendered as EssencePicture
 * Pictures will be rendered in original file format by default
 * Thumbnails now render in original file format, but GIFs will always be flattened
 
